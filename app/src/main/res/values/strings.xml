@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">FoodPlatform</string>
+    //input_text
+    <string name="input_password_text">密码</string>
+    <string name="input_username_text">用户名/邮箱/手机号码</string>
+    <string name="input_email_text">请输入您的密保邮箱</string>
+    <string name="input_verification_text">请输入验证码</string>
+    <string name="input_passwordmodify_text">请输入修改的密码</string>
+    <string name="input_passwordconfirm_text">请再次确认您的密码</string>
+    <string name="input_register_username_text">请输入用户名/邮箱/手机号码</string>
+    <string name="input_register_password_text">请设置您的密码</string>
+    //button text
+    <string name="button_login_text">登 录</string>
+    <string name="button_forgetpassword_text">忘记密码?</string>
+    <string name="button_register_text">注 册</string>
+    <string name="button_registerconfirm_text">注 册</string>
+    <string name="button_return_to_login_text">返回登录</string>
+    <string name="button_verification_text">发送验证码</string>
+    <string name="button_modifypasswordconfirm_text">修改密码</string>
+    //title text
+    <string name="title_register_text">注册新用户</string>
+    <string name="title_forgetpassword_text">忘记密码</string>
+    //tip text
+    <string name="tip">Tip:</string>
+    <string name="tip_register_text1">欢迎，感谢您的使用！ 请按以下提示输入注册信息。</string>
+    <string name="tip_register_text2">注册后请牢记您的用户名和密码，并在成功登陆后尽快验证您的密保邮箱以及完善您的个人信息。</string>
+    <string name="tip_forgetpassword_text1">忘记密码？请您按照如下提示修改您的账号和密码。</string>
+    <string name="tip_forgetpassword_text2">请登录您的密保邮箱以查收您的账号与验证码。若您无密保邮箱，请联系客服。</string>
+    <string name="todayfood">今日饮食情况</string>
+    <string name="todayenergy">摄入卡路里</string>
+    <string name="KCal">千卡</string>
 </resources>

@@ -16,6 +16,7 @@
             android:id="@+id/btn_food"
             android:layout_width="35dp"
             android:layout_height="35dp"
+            android:scaleType="fitXY"
             android:background="@drawable/homepage" />
         <TextView
             android:layout_width="wrap_content"
@@ -53,6 +54,7 @@
             android:id="@+id/btn_cus"
             android:layout_width="35dp"
             android:layout_height="35dp"
+            android:scaleType="fitXY"
             android:background="@drawable/customer" />
         <TextView
             android:layout_width="wrap_content"
